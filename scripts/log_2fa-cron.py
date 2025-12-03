@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# Cron script to log 2FA codes every minute
-
 import os
 import datetime
 import base64
